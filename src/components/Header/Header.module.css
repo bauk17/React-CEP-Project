@@ -1,0 +1,15 @@
+.containerHeader {
+  max-width: 1800px;
+  margin: auto;
+}
+
+.containerHeader h1 {
+  color: black;
+}
+
+.containerHeader hr {
+  background-color: #ebc631;
+  border: 0;
+  height: 2px;
+  margin: 0px auto 18px auto;
+}
